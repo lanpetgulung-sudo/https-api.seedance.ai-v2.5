@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio",
+  "description": "Professional AI Video Generator powered by Seedance 2.5 with Text-to-Video, Image-to-Video, Reference Mode, Character Consistency, and Video Transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
